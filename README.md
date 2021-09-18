@@ -15,7 +15,7 @@ Cần cài đặt Python3 và thư viện OpenCV.
     
 ## Usage
 
-- Trong xử lý ảnh, quy ước **trục ngang sẽ là y** và **trục dọc sẽ là x**
+- Trong xử lý ảnh, quy ước **trục ngang sẽ là y** và **trục dọc sẽ là x**. Gốc tọa độ sẽ nằm ở phía trên cùng bên trái
 
 - Bản đồ input (map.bmp) phải ở dạng **Grayscale** và phải được đặt cùng vị trí với 2 file source code.
 
