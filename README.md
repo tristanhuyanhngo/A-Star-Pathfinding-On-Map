@@ -1,7 +1,3 @@
-
-![Logo](https://github.com/tristanhuyanhngo/AI_Finding-shortest-path-using-A--algorithms/blob/main/Logo.PNG)
-
-    
 # Find shortest path using A* algorithm
 
 - Chương trình ứng dụng thuật toán A* để tìm đường đi tối ưu về quãng đường giữa 2 điểm trên một bản đồ địa hình cho trước (Grayscale), sau đó vẽ đường đi tìm được trên bản đồ đã cho đồng thời cho biết độ dài quãng đường và tổng số điểm đã tương tác trên bản đồ.
@@ -26,3 +22,8 @@ Cần cài đặt Python3 và thư viện OpenCV.
 - Sau khi có đầy đủ 2 file input và run thì chương trình sẽ vẽ đường đi tìm được trên bản đồ đã cho đồng thời cho biết độ dài quãng đường và tổng số điểm đã tương tác trên bản đồ.
 
 - Trong trường hợp không tìm được path thì chương trình sẽ thông báo
+
+## Authors
+
+- [Ngô Huy Anh - 19CLC6 - FIT HCMUS](https://github.com/tristanhuyanhngo)
+- [Triệu Nguyên Phát - 19CLC6 - FIT HCMUS]()
