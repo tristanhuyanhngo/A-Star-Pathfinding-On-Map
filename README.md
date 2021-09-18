@@ -3,6 +3,8 @@
 - Chương trình ứng dụng thuật toán A* để tìm đường đi tối ưu về quãng đường giữa 2 điểm trên một bản đồ địa hình cho trước (Grayscale), sau đó vẽ đường đi tìm được trên bản đồ đã cho đồng thời cho biết độ dài quãng đường và tổng số điểm đã tương tác trên bản đồ.
 - Nội dung mô tả đồ án chi tiết được viết trong file `Project01.pdf`.
 - Giải thích chi tiết về chương trình, **các hàm heuristics** được viết trong file `/Report/Report.pdf`.
+- Phần source code được để trong file `/Source`.
+
 ## Installation
 
 Cần cài đặt Python3 và thư viện OpenCV.
